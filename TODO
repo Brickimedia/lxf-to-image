@@ -1,0 +1,4 @@
+- Create the actual program
+- Linux support
+- Support for systems without graphics processors (most servers)
+- Possibly GUI version for those not using a remote server/command line?
